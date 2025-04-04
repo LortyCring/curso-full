@@ -1,1 +1,1 @@
-Olá,usuários. Eu aprendi a usar o git para documentar e salvar meus progresso. 
+Olá,usuários. Eu aprendi a usar o git para documentar e salvar meu progresso. 
